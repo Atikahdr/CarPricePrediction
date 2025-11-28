@@ -70,7 +70,7 @@ def car_predict(model, preprocessor, data_input):
 # Home Page
 if st.session_state.page == "home":
     st.title("🚗 Car Price Prediction App")
-    header_img = "C:/Users/AtikahDR/Documents/Data Science Project/CarPrice/car.jpg"
+    header_img = "car.jpg"
     st.image(header_img, use_container_width=True)
     st.subheader(" **Welcome!** ")
     st.markdown(
@@ -333,3 +333,4 @@ elif st.session_state.page == "history":
 st.markdown("---")
 
 st.caption("💡 Created by Atikah DR | Machine Learning Prediction Project")
+
