@@ -12,11 +12,11 @@ from datetime import datetime
 
   
 # Load Model dan preprocessor
-model = joblib.load("C:/Users/AtikahDR/Documents/Data Science Project/CarPrice/linear_model_car_price.pkl")
-preprocessor = joblib.load("C:/Users/AtikahDR/Documents/Data Science Project/CarPrice/preprocessor.pkl")
+model = joblib.load("linear_model_car_price.pkl")
+preprocessor = joblib.load("preprocessor.pkl")
 
 # Load CSV
-car_data_clean = pd.read_csv("C:/Users/AtikahDR/Documents/Data Science Project/CarPrice/cleaned_carprice.csv")
+car_data_clean = pd.read_csv("cleaned_carprice.csv")
 
 # Session State Initializer
 if "page" not in st.session_state:
@@ -331,4 +331,5 @@ elif st.session_state.page == "history":
 
 #  Footer
 st.markdown("---")
+
 st.caption("💡 Created by Atikah DR | Machine Learning Prediction Project")
