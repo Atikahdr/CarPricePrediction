@@ -29,7 +29,7 @@ if "history" not in st.session_state:
     st.session_state.history = []
 
 # Page Navigation
-st.sidebar.title("Price Prediction")
+st.sidebar.title("🏎️ Price Prediction")
 
 page_map = {
     "🏎️ Home Page": "home",
@@ -333,4 +333,5 @@ elif st.session_state.page == "history":
 st.markdown("---")
 
 st.caption("💡 Created by Atikah DR | Machine Learning Prediction Project")
+
 
