@@ -21,6 +21,7 @@ Analysis Includes:
 - Feature impact on car price
 - Model performance metrics
 
+
 🤖 Machine Learning Model
 Algorithm: Linear Regression
 Target Variable: Car Price (USD)
@@ -55,6 +56,7 @@ Insights Highlighted:
 - Mileage vs price relationship
 - Key KPIs and summary statistics
 
+
 🛠️ Technologies Used
 - Python
 - Pandas & NumPy
@@ -62,16 +64,19 @@ Insights Highlighted:
 - Streamlit
 - Power BI
 
+
 🎯 Key Takeaways
 - Built a complete data science pipeline from raw data to deployment
 - Delivered insights through interactive dashboards
 - Developed a usable prediction system for real-world scenarios
+
 
 🚀 Future Improvements
 - Try advanced models (Random Forest, XGBoost)
 - Hyperparameter tuning
 - Model performance comparison
 - Cloud deployment (Streamlit Cloud / Azure)
+
 
 👩‍💻 Author
 Atikah Dr
