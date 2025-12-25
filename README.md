@@ -47,8 +47,7 @@ Key Features:
 
 📊 Power BI Dashboard Preview
 Dashboard designed to provide business and analytical insights from used car data.
-[Dashboard Analysis Car Price.pdf](https://github.com/user-attachments/files/24335661/Dashboard.Analysis.Car.Price.pdf)
-
+<img width="1992" height="1152" alt="1_11zon" src="https://github.com/user-attachments/assets/79125c5c-7e9b-40de-818a-26fb8d7fada2" />
 
 Insights Highlighted:
 - Price distribution by fuel type
