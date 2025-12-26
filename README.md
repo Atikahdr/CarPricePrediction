@@ -1,4 +1,4 @@
-🚗 Used Car Price Analysis & Prediction
+<img width="1992" height="1152" alt="1_11zon" src="https://github.com/user-attachments/assets/f378eb37-81e3-435d-b13a-4a2ede93d2d6" />🚗 Used Car Price Analysis & Prediction
 An end-to-end data science project that analyzes used car price data and builds a machine learning model to predict car prices.
 The project also includes a Power BI dashboard and a Streamlit web application for interactive predictions.
 
@@ -48,7 +48,8 @@ Key Features:
 
 📊 Power BI Dashboard Preview
 Dashboard designed to provide business and analytical insights from used car data.
-<img width="1992" height="1152" alt="1_11zon" src="https://github.com/user-attachments/assets/79125c5c-7e9b-40de-818a-26fb8d7fada2" />
+<img width="1992" height="1152" alt="1_11zon" src="https://github.com/user-attachments/assets/effa4ebc-11ef-48c6-8ea6-477ad602ba82" />
+
 
 Insights Highlighted:
 - Price distribution by fuel type
